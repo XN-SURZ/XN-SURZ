@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm XN-SURZ</h1>
 
+<hr style="border: 1px solid #0000FF;" />
+
 ###
 
 <h1 align="center">⚡️ Hello there! Glad you found my profile! ⚡️</h1>
