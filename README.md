@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">✨ Hello there! Glad you found my profile! ✨</h1>
+<h1 align="center">⚡️ Hello there! Glad you found my profile! ⚡️</h1>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h1 align="center">📞 Contact :</h1>
+<h1 align="center">🚀 Contact :</h1>
 
 ###
 
