@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm XN-SURZ</h1>
-
-<hr style="border: 1px solid #0000FF;" />
+<h1 align="center" style="font-size: 36px;">Hi 👋, I'm XN-SURZ</h1>
 
 ###
 
-<h1 align="center">⚡️ Hello there! Glad you found my profile! ⚡️</h1>
+<h1 align="center" style="font-size: 36px;">⚡️ Hello there! Glad you found my profile! ⚡️</h1>
 
 <hr style="border: 1px solid #0000FF;" />
 
@@ -14,7 +12,7 @@
 
 <hr style="border: 1px solid #0000FF;" />
 
-<h1 align="center">🖥️ Language :</h1>
+<h1 align="center" style="font-size: 32px;">🖥️ Language :</h1>
 
 <hr style="border: 1px solid #0000FF;" />
 
@@ -50,7 +48,7 @@
 
 <hr style="border: 1px solid #0000FF;" />
 
-<h1 align="center">📊 Statistics :</h1>
+<h1 align="center" style="font-size: 32px;">📊 Statistics :</h1>
 
 <hr style="border: 1px solid #0000FF;" />
 
@@ -61,7 +59,7 @@
 
 <hr style="border: 1px solid #0000FF;" />
 
-<h1 align="center">🚀 Contact :</h1>
+<h1 align="center" style="font-size: 32px;">🚀 Contact :</h1>
 
 <hr style="border: 1px solid #0000FF;" />
 
