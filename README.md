@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/179438352?s=400&u=7d174352ca9a0c668226b203818432376531fac4&v=4" alt="Profile Picture" style="border-radius: 50%;" />
+  <img height="200" src="https://avatars.githubusercontent.com/u/179438352?s=400&u=7d174352ca9a0c668226b203818432376531fac4&v=4" alt="Profile Picture" style="border: 5px solid #000000; border-radius: 10px;" />
 </div>
 
 ###
