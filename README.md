@@ -1,5 +1,5 @@
-# Hi 👋, I'm XN-SURZ #
+# <align="center"> Hi 👋, I'm XN-SURZ #
 
-#⚡️ Hello there! Glad you found my profile! ⚡️ #
+# <align="center">⚡️ Hello there! Glad you found my profile! ⚡️ #
 
 ![Banner](Banner.png)
