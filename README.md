@@ -6,6 +6,6 @@
 
 ###
 
-![alt text](Banner.png)
+<h1>![Banner](Banner.png)</h1>
 
 ###
