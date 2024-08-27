@@ -1,5 +1,5 @@
-<title align="center">Hi 👋, I'm XN-SURZ</title>
+# Hi 👋, I'm XN-SURZ #
 
-<h1 align="center">⚡️ Hello there! Glad you found my profile! ⚡️</h1>
+#⚡️ Hello there! Glad you found my profile! ⚡️ #
 
 ![Banner](Banner.png)
